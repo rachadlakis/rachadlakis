@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rachad Lakis  
 
-📧 rachadlakis@gmail.com | 📞 +9613962918 | 🌐 [LinkedIn](#) | 💻 [GitHub](https://github.com/rachadlakis)  
+📧 rachadlakis@gmail.com | 📞 +9613962918 | 🌐 [LinkedIn](https://www.linkedin.com/in/rachad-lakis/) | 💻 [GitHub](https://github.com/rachadlakis)  | [site](https://rachadlakis.github.io/)
 
 ---
 
